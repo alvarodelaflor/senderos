@@ -1,2 +1,2 @@
-# senderos
-Repositorio creado para la asignatura Sistemas Software Basados en Web (MII -UGR(
+# Senderos
+Repositorio creado para la asignatura Sistemas Software Basados en Web (MII -UGR)
