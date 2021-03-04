@@ -1,2 +1,5 @@
 up:
-  docker-compose up
+	sudo docker-compose up
+
+build:
+        sudo docker-compose build
